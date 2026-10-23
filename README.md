@@ -18,7 +18,7 @@
 
 A curadoria inicial está em [`fontes/referencias.md`](fontes/referencias.md). Inclui documentação oficial, publicação NIST, base MITRE e vídeo didático. **A lista é de fontes candidatas:** marcar como 'Importada e verificada' apenas aquelas realmente adicionadas e examinadas no notebook.
 
-Critérios: autoria/instituição identificável; precisão técnica; aderência ao AI SOC; relevância/atualidade; rastreabilidade; permissão para compartilhar o conteúdo ou seu link.
+Critérios: autoria/instituição identificável; precisão técnica; aderência ao AI SOC; relevância/atualidade; rastreabilidade;
 
 ## 4. Diretriz de comportamento
 
